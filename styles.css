@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.accommodation{
+    margin: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.cards{
+    overflow: hidden;
+}
+
+img{
+    border-radius: 15px;
+}
+
+.names{
+    font-family: "Bernard MT Condensed", "sans-serif";
+    font-size: medium;
+    z-index: 1;
+}
+
+p{
+    display: block;
+}
